@@ -1,5 +1,3 @@
-# Chuleta Git
-
 # **DAW - Desarrollo de Aplicaciones Web**
 
 ---
